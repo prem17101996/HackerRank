@@ -6,5 +6,9 @@ if int(num[0])>=1:
         if (i)==i[::-1]:           
             print("True")
             break
+    else:
+        print("False")
+        
+            
 else:
     print("False")
