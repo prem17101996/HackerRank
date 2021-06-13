@@ -11,4 +11,4 @@ if int(num[0])>=1:
         
             
 else:
-    print("False")
+    print("false")
