@@ -6,7 +6,7 @@ day=calendar.weekday(int(year),int(month),int(date))
 if day==6:
     print("SUNDAY")
 elif day==0:
-    print("MONDAY")
+    print("MONDA")
 elif day==1:
     print("TUESDAY")
 elif day==2:
